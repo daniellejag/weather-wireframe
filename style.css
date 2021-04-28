@@ -1,0 +1,31 @@
+body {
+    padding: 30px;
+}
+
+h1 {
+    position: fixed;
+    padding-top: 500px;
+}
+
+
+ul {
+   padding: 0;
+   list-style: none;
+   
+  
+  
+}
+
+li {
+    padding: 20px 0;
+    border-radius: 10px;
+    transition: all 400ms ease-in-out;
+    max-width: 500px;
+    margin: 5px 10px;
+  
+}
+
+li:hover {
+    background: #fffbef;
+    font-size: 30px;
+}
